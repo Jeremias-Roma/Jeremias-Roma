@@ -24,6 +24,6 @@ Here are some ideas to get you started:
 
 [<img align="left" height="32" width="32" src="https://github.com/Jeremias-Roma/Jeremias-Roma/blob/main/img/linkedin.png" />](https://www.linkedin.com/in/jerem%C3%ADas-romain/)
 
-[<img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/facebook.png" />](https://www.facebook.com/jeremiastech)
+[<img align="left" height="32" width="32" src="https://github.com/Jeremias-Roma/Jeremias-Roma/blob/main/img/facebook.png" />](https://www.facebook.com/jeremiastech)
 
 <br />
