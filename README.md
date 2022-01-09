@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 
 ### Hello everyone, I'm Jeremías Romain (English pronunciation: Heremi as Roma in )
 
-# I am a young programmer born in Argentina, with great long-term projections in the development of multiple deep learning models (related to physics, mathematics and business).
+### I am a young programmer born in Argentina, with great long-term projections in the development of multiple deep learning models (related to physics, mathematics and business).
