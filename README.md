@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 ### Connect with me:
 
-[<img align="left" height="32" width="32" src="https://github.com/Jeremias-Roma/Jeremias-Roma/blob/main/img/linkedin-white.svg#gh-dark-mode-only" />](https://www.linkedin.com/in/jerem%C3%ADas-romain/)
+[<img align="left" height="32" width="32" src="https://github.com/Jeremias-Roma/Jeremias-Roma/blob/main/img/linkedin-black.svg#gh-dark-mode-only" />](https://www.linkedin.com/in/jerem%C3%ADas-romain/)
 
 [<img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/facebook.svg" />](https://www.facebook.com/jeremiastech)
 
