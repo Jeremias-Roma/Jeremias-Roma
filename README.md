@@ -7,7 +7,7 @@
 
 ### Connect with me:
 
-[<img align="left" height="32" width="32" src="https://github.com/Jeremias-Roma/Jeremias-Roma/blob/main/img/linkedin.png" />](https://www.linkedin.com/in/jerem%C3%ADas-romain/)
+[<img align="left" height="32" width="32" src="https://github.com/Jeremias-Roma/Jeremias-Roma/blob/main/img/linkedin.png" />](https://www.linkedin.com/in/jeremias-romain/)
 
 [<img align="left" height="32" width="32" src="https://github.com/Jeremias-Roma/Jeremias-Roma/blob/main/img/facebook.png" />](https://www.facebook.com/jeremiastech)
 
